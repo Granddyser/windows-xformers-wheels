@@ -1,2 +1,15 @@
-# windows-xformers-wheels
-Pre-compiled wheels for Windows xformers
+# Xformers wheels for Windows 
+
+Pre-compiled Xformers wheels for Windows 🚀
+
+
+
+## 🎯 Available Wheels
+
+| Xformers | Python | PyTorch | CUDA | Download |
+|----------------|--------|---------|------|----------|
+| 0.0.33 | 3.10 | torch>=2.8 | 12.6 > 13.0 | [Release](https://github.com/Granddyser/windows-xformers-wheels/releases/download/0.0.33/xformers-0.0.33+00a7a5f0.d20251026-cp39-abi3-win_amd64.whl) |
+
+
+
+
