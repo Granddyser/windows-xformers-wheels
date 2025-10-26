@@ -14,3 +14,10 @@ Pre-compiled Xformers wheels for Windows 🚀
 
 
 
+## 🤝 Contributing
+
+Found these wheels helpful? Star the repo! ⭐
+
+Need a different configuration? Open an issue!
+
+---
